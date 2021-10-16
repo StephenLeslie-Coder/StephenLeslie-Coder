@@ -36,7 +36,7 @@ Refractoring my personal projects by implementing more efficient algorithms and 
 
  ## My GitHub Stats 📊
 <a href="https://github.com/StephenLeslie-Coder?tab=repositories">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=stephenleslie-coder&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=stephenleslie-coder&count_private=true&show_icons=true&theme=radical&cache_seconds=1800&include_all_commits=true" />
 </a>
 <a href="https://github.com/StephenLeslie-Coder?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenleslie-coder" />
