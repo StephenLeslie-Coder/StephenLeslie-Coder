@@ -32,6 +32,8 @@ const stephen_leslie:Me = {
  
 }
 ```
+### What I am currently working on 📚: 
+Refractoring my personal projects by implementing more efficient algorithms and scalable file structure while trying to be more active on github.
 
  ## My GitHub Stats 📊
 <a href="https://github.com/StephenLeslie-Coder?tab=repositories">
