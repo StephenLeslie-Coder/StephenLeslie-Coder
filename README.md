@@ -10,12 +10,13 @@ Software Engineer | Backend & API Specialist | Jamaica 🇯🇲
 
 ### 👨🏾‍💻 About Me
 
-I’m a results-driven **Software Engineer** with a strong focus on **backend systems, APIs, and scalable architectures**.  
-I enjoy building clean, reliable services that solve real business problems — from payment systems to automation tools.
+I'm a results-oriented software engineer that specializes in scalable architectures, backend systems, and APIs.
+I like creating dependable, clean services that address actual business issues, such as automation tools and payment systems.
 
-I currently work extensively with **Java & Spring Boot**, cloud infrastructure, and CI/CD pipelines, while also building entrepreneurial side projects in my own time.
 
-I believe good software is built with **clarity, structure, and intent**.
+At the moment, I deal a lot with cloud infrastructure, Java & Spring Boot, and CI/CD pipelines in addition to creating side projects for my business on my own time.
+
+Good software, in my opinion, is constructed with intent, structure, and clarity.
 
 ---
 
